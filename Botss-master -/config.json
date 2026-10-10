@@ -1,0 +1,20 @@
+﻿{
+  
+ "prefix": "!",
+  
+"token": "",
+  
+"owners": ["1051175037274705930","540474454355214336","802498474913562625"],
+ 
+ "footer": "NSFW BotMade in doctor",
+
+
+  "msg": {
+ "nsfwWarn": "You must use this command in an nsfw channel!",
+ 
+          "loading": "Please wait...",
+   
+          "imageNotLoading": "Image not loading ? Click Here"
+  }
+
+}
